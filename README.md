@@ -1,3 +1,28 @@
+## nao_interfaces (rolling) - 1.0.0-1
+
+The packages in the `nao_interfaces` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling -e nao_interfaces` on `Wed, 02 Aug 2023 00:36:07 -0000`
+
+These packages were released:
+- `nao_command_msgs`
+- `nao_sensor_msgs`
+
+Version of package(s) in repository `nao_interfaces`:
+
+- upstream repository: https://github.com/ijnek/nao_interfaces.git
+- release repository: https://github.com/ros2-gbp/nao_interfaces-release.git
+- rosdistro version: `0.0.4-3`
+- old version: `0.0.4-3`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## nao_interfaces (galactic) - 0.0.4-1
 
 The packages in the `nao_interfaces` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic --track galactic nao_interfaces` on `Mon, 24 Jan 2022 11:21:58 -0000`
