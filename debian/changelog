@@ -1,0 +1,15 @@
+ros-iron-nao-sensor-msgs (0.0.4-5jammy) jammy; urgency=high
+
+  * update package descriptions, and remove unused dependency
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Mon, 24 Jan 2022 00:00:00 -0000
+
+ros-iron-nao-sensor-msgs (0.0.3-5jammy) jammy; urgency=high
+
+  * separated msgs into two different packages, sensor and command packages
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 17 Jul 2021 00:00:00 -0000
+
+
