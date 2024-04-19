@@ -1,1 +1,1 @@
-{"base": "e949c19", "parent": "debian/rolling/nao_command_msgs", "previous": "7db42ca", "trim": "", "trimbase": ""}
+{"base": "bfc0535", "parent": "debian/jazzy/nao_command_msgs", "previous": "74efecc", "trim": "", "trimbase": ""}
