@@ -2,6 +2,9 @@
 Changelog for package nao_sensor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2024-04-20)
+------------------
+
 0.0.4 (2022-01-24)
 ------------------
 * update package descriptions, and remove unused dependency
