@@ -1,3 +1,28 @@
+## nao_interfaces (humble) - 0.0.5-1
+
+The packages in the `nao_interfaces` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble -e nao_interfaces` on `Sat, 20 Apr 2024 16:30:15 -0000`
+
+These packages were released:
+- `nao_command_msgs`
+- `nao_sensor_msgs`
+
+Version of package(s) in repository `nao_interfaces`:
+
+- upstream repository: https://github.com/ijnek/nao_interfaces.git
+- release repository: https://github.com/ros2-gbp/nao_interfaces-release.git
+- rosdistro version: `0.0.4-3`
+- old version: `0.0.4-3`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## nao_interfaces (iron) - 0.1.0-1
 
 The packages in the `nao_interfaces` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron -e nao_interfaces` on `Sat, 20 Apr 2024 16:27:10 -0000`
