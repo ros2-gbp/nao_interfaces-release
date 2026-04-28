@@ -1,1 +1,0 @@
-float32[25] currents  # Amperes (A), in order of JointIndexes.msg

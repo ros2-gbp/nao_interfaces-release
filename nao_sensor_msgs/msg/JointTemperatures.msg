@@ -1,1 +1,0 @@
-float32[25] temperatures  # Celcius (°C), in order of JointIndexes.msg
