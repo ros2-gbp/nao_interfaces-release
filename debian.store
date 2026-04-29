@@ -1,1 +1,1 @@
-{"base": "362d5fe983d2", "parent": "debian/rolling/nao_sensor_msgs", "previous": "9e0aef392d45", "trim": "", "trimbase": ""}
+{"base": "6b7132f", "parent": "debian/lyrical/nao_sensor_msgs", "previous": "496eef0", "trim": "", "trimbase": ""}
